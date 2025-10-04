@@ -11,7 +11,6 @@ terraform fmt -recursive
 echo "🔢 Listing available workspaces..."
 terraform workspace list
 
-
 echo "🛑 WARNING: This will destroy the plan!"
 read -p "Are you absolutely sure? Type 'destroy' to continue: " confirm
 
