@@ -1,0 +1,8 @@
+vpc_id = "vpc-00583c6394aac61af"
+region = "us-east-1"
+jenkins_ssm_role_name   = "jenkins-ssm-role"
+sonarqube_ssm_role_name = "sonarqube-ssm-role"
+jenkins_kms_key_name = "jenkins-kms-key"
+sonarqube_kms_key_name = "sonarqube-kms-key"
+jenkins_sg_name = "jenkins-sg"
+sonarqube_sg_name = "sonarqube-sg"
