@@ -8,7 +8,7 @@ resource "aws_kms_key" "this" {
       {
         Sid       = "AllowRootAccess"
         Effect    = "Allow"
-        Principal = { AWS = "arn:aws:iam::584868042761:root" }
+        Principal = { AWS = "arn:aws:iam::992862946505:root" }
         Action    = "kms:*"
         Resource  = "*"
       },
