@@ -1,4 +1,4 @@
-vpc_id = "vpc-0d18ec4d983d44635"
+vpc_id = "vpc-08325d82e7ce3d835"
 region = "ap-southeast-2"
 jenkins_ssm_role_name   = "jenkins-ssm-role"
 sonarqube_ssm_role_name = "sonarqube-ssm-role"
